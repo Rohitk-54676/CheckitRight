@@ -45,6 +45,5 @@ solo hunter here
 
 
 <<<<<<< HEAD
-=======
 abcde
-fghij
+saaaaa
