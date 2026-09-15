@@ -42,5 +42,11 @@ Edit from Harsika Kumari
  -- sanskriti 
 
 
+solo hunter here 
 
+
+
+<<<<<<< HEAD
+=======
 abcde
+>>>>>>> 97c682b2644e02e5b3a052c617ee2f540ed1fd95
