@@ -46,5 +46,3 @@ solo hunter here
 
 
 
-README.md file for the project. 
->>>>>>> d9db817dcd634f2dd7f30c37b607d71f4ed48276
